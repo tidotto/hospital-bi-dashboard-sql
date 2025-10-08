@@ -1,0 +1,6 @@
+internacao_id,paciente_id,data_entrada,ala,leito,medico_responsavel,diagnostico
+1,1,2025-09-01,Ala 1,101,Dr. Silva,Pneumonia
+2,2,2025-09-02,Ala 2,201,Dra. Marta,Fratura
+3,3,2025-09-03,UTI,U01,Dr. Souza,Sepse
+4,1,2025-09-20,Ala 1,102,Dr. Silva,Asma
+5,4,2025-09-25,Ala 2,202,Dra. Marta,Gastroenterite

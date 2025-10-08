@@ -1,0 +1,35 @@
+{
+  "tables": [
+    {
+      "name": "pacientes",
+      "source": "raw.pacientes"
+    },
+    {
+      "name": "internacoes",
+      "source": "raw.internacoes"
+    },
+    {
+      "name": "altas",
+      "source": "raw.altas"
+    },
+    {
+      "name": "d_paciente",
+      "source": "analytics.d_paciente"
+    },
+    {
+      "name": "d_tempo",
+      "source": "analytics.d_tempo"
+    },
+    {
+      "name": "f_internacao",
+      "source": "analytics.f_internacao"
+    }
+  ],
+  "kpis": [
+    "taxa_ocupacao_pct",
+    "los_medio",
+    "reinternacoes_30d",
+    "entradas",
+    "altas"
+  ]
+}
