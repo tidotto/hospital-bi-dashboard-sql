@@ -66,7 +66,7 @@ hospital-bi-dashboard-sql/
 
 ---
 
-## 🧪 Perguntas que esse modelo responde (ótimo em entrevistas)
+## 🧪 Perguntas que esse modelo responde
 - Como calcular a **taxa de ocupação diária**?  
 - Qual a **média de permanência por ala/médico/mês**?  
 - Como identificar **reinternações em até 30 dias**?  
@@ -74,7 +74,7 @@ hospital-bi-dashboard-sql/
 ---
 
 ## 🗂️ Licença
-MIT — pode usar, modificar, aprender e até mostrar em entrevistas também.  
+MIT — pode usar, modificar.
 
 ---
 
