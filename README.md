@@ -74,8 +74,4 @@ hospital-bi-dashboard-sql/
 ---
 
 ## 🗂️ Licença
-MIT — pode usar, modificar.
-
----
-
-> Criado com carinho por **Tiago Dotto** — 2025-10-07  
+MIT — pode usar, modificar. 
